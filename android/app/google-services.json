@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427306771810",
+    "project_id": "efu-app-92558",
+    "storage_bucket": "efu-app-92558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427306771810:android:bed43d3f1db1a88623783b",
+        "android_client_info": {
+          "package_name": "com.efu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427306771810-0ino7ksdom7cvcd54thhntlhmm21g844.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIk92dPO938LqHqCK7WoP-75wqcK8MUn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427306771810-0ino7ksdom7cvcd54thhntlhmm21g844.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
